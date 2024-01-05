@@ -10,7 +10,7 @@ func main() {
 	rand.Seed(time.Now().UnixNano())
 
 	for {
-		fmt.Println("Choose your move: (1) Rock, (2) Paper, (3) Scissors, (4) Quit")
+		fmt.Println("choose your move: (1) Rock, (2) Paper, (3) Scissors, (4) Quit")
 		var Choice int
 		fmt.Scan(&Choice)
 
