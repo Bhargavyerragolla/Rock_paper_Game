@@ -22,7 +22,7 @@ func main() {
 		case 3:
 			playRound("Scissors")
 		case 4:
-			fmt.Println("Thanks for playing. Goodbye!")
+			fmt.Println("Thanks for playing . Goodbye!")
 			return
 		default:
 			fmt.Println("Invalid choice . Please choose a number between 1 and 4.")
