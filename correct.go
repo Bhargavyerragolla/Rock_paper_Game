@@ -25,7 +25,7 @@ func main() {
 			fmt.Println("Thanks for playing . Goodbye!")
 			return
 		default:
-			fmt.Println("Invalid choice . Please choose a number between 1 and 4.")
+			fmt.Println("Invalid choice . Please choose a number between 1 & 4.")
 		}
 	}
 }
