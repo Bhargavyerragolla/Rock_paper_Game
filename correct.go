@@ -16,7 +16,7 @@ func main() {
 
 		switch Choice {
 		case 1:
-			playRound("Rock")
+			playRound("Rocks")
 		case 2:
 			playRound("Paper")
 		case 3:
