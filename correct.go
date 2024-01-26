@@ -18,9 +18,9 @@ func main() {
 		case 1:
 			playRound("Rocks")
 		case 2:
-			playRound("Paper")
+			playRound("Papers")
 		case 3:
-			playRound("Scissors")
+			playRound("Scissor")
 		case 4:
 			fmt.Println("Thanks for playing . Goodbye!")
 			return
